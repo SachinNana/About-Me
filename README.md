@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SachinNana
+- 👋 Hi, I’m Sachin Nanayakkara
 - 👀 I’m interested in Networking & Web Developing
 - 🌱 I’m currently learning Web Developing
 - 📫 How to reach me: sachin@binarylabs.lk
